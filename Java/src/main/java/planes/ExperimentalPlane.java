@@ -1,5 +1,5 @@
 package planes;
-
+//TODO:Move planes folder and airport to models
 import models.ClassificationLevel;
 
 public class ExperimentalPlane extends Plane {
